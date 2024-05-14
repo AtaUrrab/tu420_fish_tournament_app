@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "880320678653",
+    "project_id": "tu420-tournaments-2759e",
+    "storage_bucket": "tu420-tournaments-2759e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880320678653:android:d0e06b50c7366695aa0c94",
+        "android_client_info": {
+          "package_name": "com.leeoodom.tu420tournamentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ39KS6uMJ4Ib90yoF0NIqQdVM5OGWoXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880320678653:android:e7575895ab7f90e7aa0c94",
+        "android_client_info": {
+          "package_name": "com.mycompany.tu420tournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ39KS6uMJ4Ib90yoF0NIqQdVM5OGWoXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880320678653:android:47b57ab86644f25baa0c94",
+        "android_client_info": {
+          "package_name": "com.mycompany.tu420tournamentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ39KS6uMJ4Ib90yoF0NIqQdVM5OGWoXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
